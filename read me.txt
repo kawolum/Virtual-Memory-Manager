@@ -1,0 +1,5 @@
+run them with -pthread
+
+g++ hw3WS.cpp -pthread
+
+I am assuming all pid are 3 digits and all virtual address are 8 digits
